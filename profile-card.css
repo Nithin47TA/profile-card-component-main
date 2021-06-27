@@ -3,13 +3,17 @@ body{
     margin: 0%;
     text-align: center;
     color: hsl(229, 23%, 23%);
+    font-family: 'Kumbh Sans', sans-serif;
 }
 h3{
     margin: 0.5rem;
+    font-size: 18px;
+    margin-bottom:0rem;
 }
 p{
     display: inline;
     color: hsl(0, 0%, 59%);
+   font-size: 18px;
 }
 hr{
     border-top: 1px  ;
@@ -30,15 +34,14 @@ hr{
 }
 .profile-card{
     font-family: 'Kumbh Sans', sans-serif;
-    font-weight: 400;
+    font-weight: 700;
     font-size: 18px;
    background-color: white ;
    width: fit-content;
    margin: 150px auto ;
    border-radius: 10px;
    position: relative;
-   
-    
+   box-shadow: 5px 5px 13px hsl(227, 10%, 46%);
 }
 .space{
     height: 80px;
@@ -61,13 +64,29 @@ hr{
 }
 #name{
     display: inline;
+    font-weight: 1000;
   
 }
+.sub-headings{
+    display: block;
+ font-size: 1rem;
+ font-weight: 400;
+ margin-top: 0.8rem;
+ margin-bottom: 1.4rem;
 
+}
+
+.values{
+font-size: 12px;
+letter-spacing: 1px;
+
+
+}
 
 .value-divide{
     display: inline-block;
     width: 100px;
+    margin: 15px 0 0;
 }
 
 .attribution {
