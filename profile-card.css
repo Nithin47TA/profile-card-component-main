@@ -41,7 +41,7 @@ hr{
    margin: 150px auto ;
    border-radius: 10px;
    position: relative;
-   box-shadow: 5px 5px 13px hsl(227, 10%, 46%);
+   box-shadow: 0px 0px 200px hsl(227, 10%, 46%);
 }
 .space{
     height: 80px;
