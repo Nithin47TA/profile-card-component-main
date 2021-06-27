@@ -1,0 +1,80 @@
+body{
+    background-color: hsl(185, 75%, 39%);
+    margin: 0%;
+    text-align: center;
+    color: hsl(229, 23%, 23%);
+}
+h3{
+    margin: 0.5rem;
+}
+p{
+    display: inline;
+    color: hsl(0, 0%, 59%);
+}
+hr{
+    border-top: 1px  ;
+}
+#for-twentysix{
+  color: hsl(227, 10%, 46%);
+}
+
+#top-image{
+    position: absolute;
+    bottom: 45%;
+    right: 50%;
+}
+#bottom-image{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+}
+.profile-card{
+    font-family: 'Kumbh Sans', sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+   background-color: white ;
+   width: fit-content;
+   margin: 150px auto ;
+   border-radius: 10px;
+   position: relative;
+   
+    
+}
+.space{
+    height: 80px;
+}
+#bg-image-card
+{
+    display: block;
+    border-radius: 10px 10px  0 0;
+
+    
+}
+#person{
+    border: 4px solid #fff;
+    border-radius: 50%;
+}
+.person{
+    position: absolute;
+    left: 120px;
+    top: 90px;
+}
+#name{
+    display: inline;
+  
+}
+
+
+.value-divide{
+    display: inline-block;
+    width: 100px;
+}
+
+.attribution {
+    font-size: 11px;
+    text-align: center;
+  }
+
+  .attribution a {
+    color: hsl(228, 45%, 44%);
+  }
