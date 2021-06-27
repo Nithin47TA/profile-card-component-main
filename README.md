@@ -36,7 +36,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 #### Prefered Design 👀
 
-![](design\desktop-preview.jpg)
+![](design/desktop-design.jpg)
 
 ### Links
 
